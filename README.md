@@ -1,23 +1,22 @@
-# TRABALHO DE PI:  Título do Trabalho
+# TRABALHO DE PI:  Catálogo de Medicamentos
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 # Sumário
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-primeiro_componente_do_grupo:email_primeiro_componente@dominio.com<br>
-segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
+João Eid Dias Pinto: jaooeiid@gmail.com<br>
+Jonathan Castro Silva: jonathancastrosilva8@gmail.com<br>
+Raphael Da Silva Branco: raphaelbranco2004@gmail.com<br>
 ...
 
 ### 2.MINIMUNDO<br>
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas, se necessário resumir para justar)
-Entrevista com o usuário e identificação dos requisitos.(quando for o caso de sistemas com cliente real)
-Descrição textual das regras de negócio definidas como um subconjunto do mundo real cujos elementos são propriedades que desejamos incluir, processar, armazenar, gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
-<br>
 
-> O sistema proposto para a "Devcom Projetos conterá as informacões aqui detalhadas. Dos Projetos serão armazenados o número, nome e cidade. Dos Departamentos serão armazenados o número e nome. O cliente destacou que cada projeto pode ter vários departamentos auxiliando no seu desenvolvimento, e cada departamento pode estar envolvido em vários projetos. Os dados relativos aos empregados que serão armazenados são: rg, nome, cpf, salário, data inicial do salario e supervisor de cada empregado. É importante destacar que cada empregado pode ser supervisionado por outro empregado, e obrigatoriamente deve estar alocado a um único departamento, mas pode gerenciar vários departamentos ou não gerenciar nenhum. Um empregado também pode participar de vários projetos, caso seja necessário, mas não precisa obrigatoriamente estar alocado em algum projeto. Com relação aos dependentes serão armazenadas as informações de nome do dependente, data de nascimento, sexo e grau de parentesco. Cada empregado pode ter vários dependentes, mas um dependente esta associado apenas a um único empregado. Com relação ao histórico de salário devemos armazenar as informações de valor do salário, data de início do salário no período e data final do salário no período. É importante lembrar que cada funcionario pode ter diversos eventos de histórico de salário associados a ele visto que este dado pode ser alterado várias vezes..
- 
- 
+Tema: Catálogo de Medicamentos<br>
+
+Um cliente solicitou um sistema para catalogar os medicamentos existentes no mercado baseado nos sintomas mais comuns da população brasileira. Nesse sistema os medicamentos possuem: nome, PMVC (Preço Máximo Vendido ao Consumidor) e se precisa de receita ou não. Já nos sintomas registramos somente o nome do sintoma. Um sintoma pode ter vários medicamentos para tratar e um medicamento pode ter vários sintomas para tratar. Além de, o cliente também solicitou uma página de contato (Fale Conosco) e ele quer armazenar o usuário que irá utilizar o site, cadastrando-o e consequentemente fazendo seu login toda vez que for acessar o site, os dados pedidos durante o cadastro, contato e login fica a cargo dos desenvolvedores. Fica também a cargo dos desenvolvedores, adicionar mais itens se possível. O cliente solicita também, um menu (janela) com notícias sobre assuntos relacionados: saúde, medicação dentre outros.<br>
+
+
 ### 3.PMC<br>
 ![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
 a) inclusão do PMC desenvolvido pelo grupo <br>
@@ -42,15 +41,26 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
-    a) O sistema proposto poderá fornecer quais tipos de relatórios e informaçes? 
-    b) Crie uma lista com os 5 principais relatórios que poderão ser obtidos por meio do sistema proposto!
-    
-> A Empresa DevCom precisa inicialmente dos seguintes relatórios:
-* Relatório que informe quais são os gerentes de cada departamento incluindo as seguintes informações: número do departamento,  nome do departamento, e nome do gerente.
-* Relatório de empregados por projeto incluindo as seguintes informações: número do projeto, nome do projeto, rg do empregado, nome do empregado e quantidade de horas de trabalho do empregado alocadas ao projeto.
-* Relatório de empregados com dependentes incluindo as seguintes informações: rg do empregado, nome do empregado, nome do dependente, tipo de relação, data de nascimento do dependente e sexo do dependente.
-* Relatório com a quantidade de empregados por cada departamento incluindo as seguintes informações: nome do departamento, supervisor e quantidade de empregados alocados no departamento.
-* Relatório de supervisores e supervisionados incluindo as seguintes informações: nome do supervisor e nome do supervisionado.
+ 1. Consigo ter uma estimativa do preço do medicamento?<br>
+
+<p>Consegue sim, utilizamos o PMVC (Preço Máximo Vendido ao Consumidor), onde esse preço é disponibilizado pela Anvisa (Agência Nacional de Vigilância Sanitária), ou seja, dados oficiais.</p><br>
+
+2. Consigo acesso a informação se o medicamento precisa de receita?<br>
+
+<p>Consegue, é informado se o medicamento precisa ou não de prescrição médica.</p><br>
+
+3. Preciso pesquisar pelo sintoma que estou sentindo?<br>
+
+<p>Não, existem botões (links) de redirecionamento de páginas, portanto, ao clicá-los (cada um com seu respectivo sintoma), irá direcioná-los a página que deseja com os medicamentos do sintoma selecionado.</p><br>
+
+4. Quanto a quantidade, terá muitos medicamentos?<br>
+
+<p>Não, para ser mais intuitivo, não encheremos a página de medicamentos para não ficar desgastante.</p><br>
+
+5. Consigo entrar em contato com os desenvolvedores para tirar dúvidas ou sugestões sobre o site?<br>
+
+<p>Consegue sim, afinal nosso site foi (está sendo) feito para o público, precisamos da opinião de vocês para cada vez mais melhorarmos, já diz o ditado: “O Cliente sempre tem razão”.</p><br>
+
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
