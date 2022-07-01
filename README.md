@@ -43,23 +43,23 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
  1. Consigo ter uma estimativa do preço do medicamento?<br>
 
-<p>Consegue sim, utilizamos o PMVC (Preço Máximo Vendido ao Consumidor), onde esse preço é disponibilizado pela Anvisa (Agência Nacional de Vigilância Sanitária), ou seja, dados oficiais.</p><br>
+<p>Consegue, sim. Utilizamos o PMVC (Preço Máximo Vendido ao Consumidor), disponibilizado pela Anvisa (Agência Nacional de Vigilância Sanitária), para indicar o preço máximo por qual cada medicamento pode ser vendido.</p><br>
 
 2. Consigo acesso a informação se o medicamento precisa de receita?<br>
 
-<p>Consegue, é informado se o medicamento precisa ou não de prescrição médica.</p><br>
+<p>Consegue. É informado, para cada medicamento, se é prescrição médica.</p><br>
 
 3. Preciso pesquisar pelo sintoma que estou sentindo?<br>
 
-<p>Não, existem botões (links) de redirecionamento de páginas, portanto, ao clicá-los (cada um com seu respectivo sintoma), irá direcioná-los a página que deseja com os medicamentos do sintoma selecionado.</p><br>
+<p>Não. Existem botões (links) de redirecionamento de páginas, e, portanto, ao clicar neles (cada um com seu respectivo sintoma), haverá o redirecionamento para a página que deseja, com os medicamentos do sintoma selecionado.</p><br>
 
-4. Quanto a quantidade, terá muitos medicamentos?<br>
+4. Quanto à quantidade, terá muitos medicamentos?<br>
 
-<p>Não, para ser mais intuitivo, não encheremos a página de medicamentos para não ficar desgastante.</p><br>
+<p>Não. Para uma maior intuitividade, não encheremos a página de medicamentos, para que não fique desgastante.</p><br>
 
-5. Consigo entrar em contato com os desenvolvedores para tirar dúvidas ou sugestões sobre o site?<br>
+5. Consigo entrar em contato com os desenvolvedores para tirar dúvidas ou dar sugestões sobre o site?<br>
 
-<p>Consegue sim, afinal nosso site foi (está sendo) feito para o público, precisamos da opinião de vocês para cada vez mais melhorarmos, já diz o ditado: “O Cliente sempre tem razão”.</p><br>
+<p>Consegue, sim, afinal, nosso site está sendo feito para o público, e, portanto, precisamos da opinião de vocês para melhorarmos cada vez mais. Existe uma página de contato no site, através da qual será possível enviar mensagens a nós (desenvolvedores), para tirar dúvidas ou enviar sugestões.</p><br>
 
  
 
