@@ -129,7 +129,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 ### 6 TABELA DE DADOS DO SISTEMA:
 <br>
-![Planilha de Dados](https://github.com/branquitoRaph/template_projeto_integrador/blob/main/arquivos/Planilha%20com%20Dados%20-%20João%20Eid%2C%20Jonathan%20Castro%20e%20Raphael%20Branco.xlsx)
+![Planilha de Dados](https://github.com/branquitoRaph/template_projeto_integrador/blob/main/arquivos/Planilha%20com%20Dados%20-%20João%20Eid%2C%20Jonathan%20Castro%20e%20Raphael%20Branco.xlsx?raw=true "Planilha de Dados")
 <br>
 
  ### 7.MODELO CONCEITUAL<br>
