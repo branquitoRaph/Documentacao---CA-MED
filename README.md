@@ -142,14 +142,10 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
- <br>(se houverem mais de 3 entidades, pense na importância da entidade para o sistema)       
-    C) Principais fluxos de informação/entidades do sistema (mínimo 2). <br>Dica: normalmente estes fluxos estão associados as tabelas que conterão maior quantidade de dados 
-    D) Qualidade e Clareza
-        Garantir que a semântica dos atributos seja clara no esquema (nomes coerentes com os dados).
-        Criar o esquema de forma a garantir a redução de informação redundante, possibilidade de valores null, 
-        e tuplas falsas (Aplicar os conceitos de normalização abordados).   
-        
-![Alt text](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/concept_sample.png?raw=true "Modelo Conceitual")
+<br>
+
+![camed_modelo_conceitual](https://user-images.githubusercontent.com/108133362/177005827-482078c2-fb44-4d46-ab85-234b35495398.png)
+
       
     
 #### 7.1 Descrição dos dados 
