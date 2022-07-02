@@ -29,7 +29,7 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
 <b>Histórias de Usuário da Jarula:</b>
-
+<br>
 <p>1) Eu, Jarula, quero ter acesso a um bom catálogo de medicamentos que seja fácil e prático de usar, para que eu possa encontrar remédios para meus problemas de saúde sem dificuldade.</p>
 <br>
 <p>2) Eu, Jarula, quero poder encontrar medicamentos baratos sem precisar procurar fora de casa, para ter tempo de cuidar dos meus filhos e ter dinheiro sobrando para sustentá-los. </p>
@@ -47,6 +47,8 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <p>8) Eu, Jarula Auxiliar de Serviços Gerais quero que o catálogo não gere nenhum tipo de pagamento pelo serviço, pois tenho um salário baixo e muitas despesas.</p>
 <br>
 <br>
+
+
 <b>Histórias de Usuário do Pedro:</b>
 <br>
 <p>1) Eu, Pedro Martins, quero diferentes tipos de remédios genéricos PARA possíveis problemas de saúde que eu tenha. </p>
@@ -66,6 +68,8 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <p>8) Eu, Pedro Martins, quero que o catálogo seja bastante intuitivo, para que o acesso seja simples, prático e objetivo, sem muitas alegorias ou contextualidades. </p>
 <br>
 <br>
+
+
 <b>Histórias de Usuário do Sérgio:</B>
 <br>
 <p>1) Eu, Sérgio, quero encontrar um catálogo de medicamentos que possa me atender de maneira rápida e sem burocracia, para que eu possa encontrar rapidamente os remédios de que preciso. </p>
@@ -177,75 +181,7 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) Criar um novo banco de dados para testar a restauracao 
         (em caso de falha na restauração o grupo não pontuará neste quesito)
         c) formato .SQL
-
-
-### 12	TABELAS E PRINCIPAIS CONSULTAS<br>
-    OBS: Incluir para cada tópico as instruções SQL + imagens (print da tela) mostrando os resultados.<br>
-#### 12.1	CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS (Todas) <br>
-#### 12.2 PRINCIPAIS CONSULTAS DO SISTEMA 
- Inserir as principais consultas (relativas aos 5 principais relatórios) definidas previamente no iten 3.1 deste template.
- <br>
-  a) Você deve apresentar as consultas em formato SQL para cad um dos relatórios.
- <br>
-  b) Além da consulta deve ser apresentada uma imagem com o resultado obtido para cada consulta.<br>
+<br>
  #### 12.3 ANTEPROJETO VERSÃO 1
  
  Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
- 
- <br>
- <br>
- 
- 
- 
- 
- ### 13 Gráficos, relatórios, integração com Linguagem de programação e outras solicitações.<br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 13.1	Integração com Linguagem de programação; <br>
- #### 13.2	Desenvolvimento de gráficos/relatórios pertinentes, juntamente com demais <br>
- #### solicitações feitas pelo professor. <br>
- #### 13.3 ANTEPROJETO VERSÃO 2
- <br>
- <br>
- 
- 
- ### 14 Slides e Apresentação em vídeo. <br>
-     OBS: Observe as instruções relacionadas a cada uma das atividades abaixo.<br>
- #### 14.1 Slides; <br>
- #### 14.2 Apresentação em vídeo <br>
- #### 14.3 ANTEPROJETO VERSÃO FINAL
- <br>
- <br>   
-
-
-    
-##### About Formatting
-    https://help.github.com/articles/about-writing-and-formatting-on-github/
-    
-##### Basic Formatting in Git
-    
-    https://help.github.com/articles/basic-writing-and-formatting-syntax/#referencing-issues-and-pull-requests
-   
-    
-##### Working with advanced formatting
-    https://help.github.com/articles/working-with-advanced-formatting/
-
-#### Mastering Markdown
-    https://guides.github.com/features/mastering-markdown/
-
-### OBSERVAÇÕES IMPORTANTES
-
-#### Todos os arquivos que fazem parte do projeto (Imagens, pdfs, arquivos fonte, etc..), devem estar presentes no GIT. Os arquivos do projeto vigente não devem ser armazenados em quaisquer outras plataformas.
-1. Caso existam arquivos com conteúdos sigilosos, comunicar o professor que definirá em conjunto com o grupo a melhor forma de armazenamento do arquivo.
-
-#### Todos os grupos deverão fazer Fork deste repositório e dar permissões administrativas ao usuário deste GIT, para acompanhamento do trabalho.
-
-#### Os usuários criados no GIT devem possuir o nome de identificação do aluno (não serão aceitos nomes como Eu123, meuprojeto, pro456, etc). Em caso de dúvida comunicar o professor.
-
-
-Link para BrModelo:<br>
-http://sis4.com/brModelo/brModelo/download.html
-<br>
-
-
-Link para curso de GIT<br>
-![https://www.youtube.com/curso_git](https://www.youtube.com/playlist?list=PLo7sFyCeiGUdIyEmHdfbuD2eR4XPDqnN2?raw=true "Title")
