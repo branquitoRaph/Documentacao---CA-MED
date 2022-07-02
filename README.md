@@ -1,5 +1,8 @@
-# TRABALHO DE PI:  Catálogo de Medicamentos
+# TRABALHO DE PI:  Catálogo de Medicamentos Ca'Med
+![Logo](https://user-images.githubusercontent.com/108133362/177004618-b4eb892c-cf18-461a-9a1e-f9afbe9681e9.png)
+<br>
 Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
+
 
 # Sumário
 
