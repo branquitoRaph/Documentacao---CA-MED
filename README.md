@@ -137,9 +137,11 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 <br>
 
  ### 7.MODELO CONCEITUAL<br>
-    A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
-    B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
-        * informe quais são as 3 principais entidades do sistema em densenvolvimento
+<br>    
+<p><b>Três principais entidades:</b></p>
+<p>MEDICAMENTO;</p>
+<p>USUARIO;</p>
+<p>SINTOMA</p>
 <br>
 
 
