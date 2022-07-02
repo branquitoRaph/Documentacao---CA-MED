@@ -18,9 +18,8 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 
 ### 3.PMC<br>
-![Exemplo de PMC](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/PMC.jpg?raw=true "PMC")
-a) inclusão do PMC desenvolvido pelo grupo <br>
-
+![Exemplo de PMC](Link "PMC")
+<br>
 
 ### 4.Personas e Histórias de usuário<br>
 <img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
