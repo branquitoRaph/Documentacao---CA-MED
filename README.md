@@ -151,18 +151,130 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 <br>
 #### 7.1 Descrição dos dados 
-    [objeto]: [descrição do objeto]
-    
-    EXEMPLO:
-    CLIENTE: Tabela que armazena as informações relativas ao cliente<br>
-    CPF: campo que armazena o número de Cadastro de Pessoa Física para cada cliente da empresa.<br>
+
+<br>
+
+<p>MEDICAMENTO: Entidade que armazena as informações relativas aos medicamentos</p>
+<p>idMedicamento: Identificador do medicamento (Chave Primária)</p>
+<p>nomeMedicamento: Nome do medicamento</p>
+<p>PMVC: Preço Máximo Vendido ao Consumidor do medicamento</p>
+<p>necessarioReceita: Informa se o medicamento precisa ou não de prescrição médica</p>
+
+<br>
+
+<p>SINTOMA: Entidade que armazena as informações relativas aos sintomas</p>
+<p>idSintoma: Identificador do sintoma (Chave Primária)</p>
+<p>nomeSintoma: Nome do sintoma</p>
+
+<br>
+
+<p>USUARIO: Entidade que armazena as informações relativas aos usuários</p>
+<p>idUsuario: Identificador do usuário (Chave Primária)</p>
+<p>nomeUsuario: Nome do usuário</p>
+<p>senha: Senha do usuário</p>
+<p>dataNascimento: Data de nascimento do usuário</p>
+
+<br>
+
+<p>ENDERECO: Entidade que armazena as informações relativas aos endereços dos usuários</p>
+<p>idEndereco: Identificador do endereço (Chave Primária)</p>
+<p>numero: Número do endereço do usuário</p>
+
+<br>
+
+<p>MENSAGEM: Entidade que armazena as informações relativas as mensagens enviadas pelos usuários</p>
+<p>idMensagem: Identificador da mensagem (Chave Primária)</p>
+<p>descriMensagem: Conteúdo da mensagem</p>
+
+<br>
+
+<p>TIPO_CONTATO: Entidade que armazena os tipos de contatos existentes</p>
+<p>idTipo: Identificador do tipo de contato (Chave Primária)</p>
+<p>descriTipoContato: Descrição do tipo de contato</p>
+
+<br>
+
+<p>TIPO_LOGRADOURO: Entidade que armazena os tipos de logradouros existentes</p>
+<p>idTipo_Logradouro: Identificador do tipo de logradouro (Chave Primária)</p>
+<p>descriTipo_Logradouro: Descrição do logradouro</p>
+
+<br>
+
+<p>BAIRRO: Entidade que armazena as informações relativas de um bairro</p>
+<p>idBairro: Idenntificador do bairro (Chave Primária)</p>
+<p>descriBairro: Nome do bairro</p>
+
+<br>
+
+<p>MUNICIPIO: Entidade que armazena as informações relativas de um município</p>
+<p>idMunicipio: Identificador do município (Chave Primária)</p>
+<p>descriBairro: Nome do município</p>
+
+<br>
+
+<p>ESTADO: Entidade que armazena as informações relativas de um Estado</p>
+<p>idEstado: Identificador do Estado (Chave Primária)</p>
+<p>descriEstado: Nome do Estado</p>
+
+<br>
+
+<p>COMPLEMENTO: Entidade que armazena as informações relativas de um complemento do endereço de um usuário</p>
+<p>idComplemento: Identificador do complemento (Chave Primária)</p>
+<p>descriComplemento: Descrição do complemento do endereço do usuário</p>
+
+<br>
+
+<p>SINTOMA_MEDICAMENTO: Relacionamento entre as entidades SINTOMA e MEDICAMENTO</p>
+
+<br>
+
+<p>SINTOMA_USUARIO: Relacionamento entre as entidades SINTOMA e USUARIO</p>
+<p>dataSintoma: Data em que o usuário teve o sintoma</p>
+
+<br>
+
+<p>USUARIO_ENDERECO: Relacionamento entre as entidades USUARIO e ENDERECO</p>
+
+<br>
+
+<p>ENDERECO_COMPLEMENTO: Relacionamento entre as entidades ENDERECO e COMPLEMENTO</p>
+
+<br>
+
+<p>USUARIO_MENSAGEM: Relacionamento entre as entidades USUARIO e MENSAGEM</p>
+
+<br>
+
+<p>USUARIO_TIPO_CONTATO: Relacionamento entre as entidades USUARIO e TIPO_CONTATO</p>
+<p>descricao: Descricao do tipo de contato do usuário</p>
+
+<br>
+
+<p>ENDERECO_TIPO_LOGRADOURO: Relacionamento entre as entidades ENDERECO e TIPO_LOGRADOURO</p>
+
+<br>
+
+<p>ENDERECO_BAIRRO: Relacionamento entre as entidades ENDERECO e BAIRRO</p>
+
+<br>
+
+<p>ENDERECO_MUNICIPIO: Relacionamento entre as entidades ENDERECO e MUNICIPIO</p>
+
+<br>
+
+<p>MUNICIPIO_ESTADO: Relacionamento entre as entidades MUNICIPIO e ESTADO</p>
+
+<br>
 
 ### 8	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (mockup)
-        b) Protótipo vs Modelo conceitual
-        (não serão aceitos modelos que não estejam em conformidade)
-        c) Backlog (caso solicitado)
+<br>
 
+
+[Rastreabilidade_ HUs X Protótipo.xlsx](https://github.com/branquitoRaph/template_projeto_integrador/files/9033741/Rastreabilidade_.HUs.X.Prototipo.xlsx?raw=true "Rastreabilidade: HUs X Protótipo")
+
+
+<br>
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
