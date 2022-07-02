@@ -54,17 +54,17 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 
 <b>Histórias de Usuário do Pedro:</b>
 <br>
-<p>1) Eu, Pedro Martins, quero diferentes tipos de remédios genéricos PARA possíveis problemas de saúde que eu tenha. </p>
+<p>1) Eu, Pedro Martins, quero diferentes tipos de remédios genéricos para possíveis problemas de saúde que eu tenha. </p>
 <br>
-<p>2) Eu, Pedro Martins, quero os menores preços possíveis PARA o menor gasto possível </p>
+<p>2) Eu, Pedro Martins, quero os menores preços possíveis para o menor gasto possível </p>
 <br>
-<p>3) Eu, Pedro Martins, quero a mais rápida disponibilidade desses remédios PARA a menor espera possível.</p>
+<p>3) Eu, Pedro Martins, quero a mais rápida disponibilidade desses remédios para a menor espera possível.</p>
 <br>
-<p>4) Eu, Pedro Martins, quero se possível, ter acesso a bula antes da compra de um produto, PARA saber seus componentes. </p>
+<p>4) Eu, Pedro Martins, quero se possível, ter acesso a bula antes da compra de um produto, para saber seus componentes. </p>
 <br>
-<p>5) Eu, Pedro Martins, quero saber se é necessário uma receita PARA fazer a compra desse remédio. </p>
+<p>5) Eu, Pedro Martins, quero saber se é necessário uma receita para fazer a compra desse remédio. </p>
 <br>
-<p>6) Eu, Pedro Martins, quero ter acesso ao preço máximo vendido ao consumidor (PMVC) PARA saber se estou pagando muito em um medicamento. </p>
+<p>6) Eu, Pedro Martins, quero ter acesso ao preço máximo vendido ao consumidor (PMVC) para saber se estou pagando muito em um medicamento. </p>
 <br>
 <p>7) Eu, Pedro Martins, quero se possível, fazer login e armazenar em minha conta os remédios que mais uso.</p>
 <br>
