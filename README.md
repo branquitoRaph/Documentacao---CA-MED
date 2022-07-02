@@ -28,6 +28,64 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
+<b>Histórias de Usuário da Jarula:</b>
+
+<p>1) Eu, Jarula, quero ter acesso a um bom catálogo de medicamentos que seja fácil e prático de usar, para que eu possa encontrar remédios para meus problemas de saúde sem dificuldade.</p>
+<br>
+<p>2) Eu, Jarula, quero poder encontrar medicamentos baratos sem precisar procurar fora de casa, para ter tempo de cuidar dos meus filhos e ter dinheiro sobrando para sustentá-los. </p>
+<br>
+<p>3) Eu, Jarula, quero poder encontrar remédios através dos sintomas sentidos, para que possa achar medicamentos sem precisar conhecer os nomes dos mesmos.</p>
+<br>
+<p>4) Eu, Jarula, quero poder encontrar os preços de medicamentos desejados, vendo o preço máximo vendido ao consumidor, para que possa comparar diferentes preços e encontrar aquele que possui maior custo-benefício.</p>
+<br>
+<p>5) Eu, Jarula, quero poder ter informações acerca da prescrição médica dos medicamentos, sabendo se ele precisa ou não de receita, para facilitar a parte de pesquisa e poupar tempo na hora de comprar o remédio. </p>
+<br>
+<p>6) Eu, Jarula quero poder repassar esse catálogo para meus filhos, para que quando não puder acessar pedir a eles para verem.</p>
+<br>
+<p>7) Eu, Jarula quero que o catálogo seja bastante intuitivo, com cores e caixas para que fique fácil de usar.</p>
+<br>
+<p>8) Eu, Jarula Auxiliar de Serviços Gerais quero que o catálogo não gere nenhum tipo de pagamento pelo serviço, pois tenho um salário baixo e muitas despesas.</p>
+<br>
+<br>
+<b>Histórias de Usuário do Pedro:</b>
+<br>
+<p>1) Eu, Pedro Martins, quero diferentes tipos de remédios genéricos PARA possíveis problemas de saúde que eu tenha. </p>
+<br>
+<p>2) Eu, Pedro Martins, quero os menores preços possíveis PARA o menor gasto possível </p>
+<br>
+<p>3) Eu, Pedro Martins, quero a mais rápida disponibilidade desses remédios PARA a menor espera possível.</p>
+<br>
+<p>4) Eu, Pedro Martins, quero se possível, ter acesso a bula antes da compra de um produto, PARA saber seus componentes. </p>
+<br>
+<p>5) Eu, Pedro Martins, quero saber se é necessário uma receita PARA fazer a compra desse remédio. </p>
+<br>
+<p>6) Eu, Pedro Martins, quero ter acesso ao preço máximo vendido ao consumidor (PMVC) PARA saber se estou pagando muito em um medicamento. </p>
+<br>
+<p>7) Eu, Pedro Martins, quero se possível, fazer login e armazenar em minha conta os remédios que mais uso.</p>
+<br>
+<p>8) Eu, Pedro Martins, quero que o catálogo seja bastante intuitivo, para que o acesso seja simples, prático e objetivo, sem muitas alegorias ou contextualidades. </p>
+<br>
+<br>
+<b>Histórias de Usuário do Sérgio:</B>
+<br>
+<p>1) Eu, Sérgio, quero encontrar um catálogo de medicamentos que possa me atender de maneira rápida e sem burocracia, para que eu possa encontrar rapidamente os remédios de que preciso. </p>
+<br>
+<p>2) Eu, Sérgio, quero encontrar remédios bons, que tenham efeito rápido, para me garantir melhoria, independentemente de seu preço.</p>
+<br>
+<p>3) Eu, Sérgio, quero conseguir remédios que funcionem, também, a longo prazo, para que eu não me preocupe para o resto de minha vida com o uso rotineiro de medicamentos. </p>
+<br>
+<p>4) Eu, Sérgio, quero poder ter uma melhor qualidade de vida e um tempo mais proveitoso com meus filhos, sem os incômodos constantes que sinto, para que eu possa me aproximar mais da minha família. </p>
+<br>
+<p>5) Eu, Sérgio, quero ter acesso a uma plataforma dinâmica e organizada para procurar medicamentos, onde as informações sejam bem dispostas, para que eu encontre o que quero saber facilmente e sem problemas.</p>
+<br>
+<p>6) Eu, Sérgio, quero que meus filhos também consigam utilizar o site, para que eu consiga mais rapidez em encontrar o medicamento.</p>
+<br>
+<p>7) Eu, Sérgio, quero poder guardar os medicamentos que eu pesquisei, para que quando precisar novamente, encontrá-lo com mais rapidez e facilidade.</p>
+<br>
+<p>8) Eu, Sérgio, quero também que o site tenha um campo com notícias sobre essa questão de saúde/medicação, para conseguir resolver meu problema o mais rápido possível, pois, como meu tempo é precioso, gostaria de ter acesso a essas informações quando entrar no site para procurar por medicamentos.</p>
+<br>
+<br>
+
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
