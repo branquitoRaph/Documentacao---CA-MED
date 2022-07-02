@@ -128,26 +128,17 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
-    A) Esta tabela deve conter **todos os atributos do sistema** e um mínimo de 10 linhas/registros de dados.
-    B) Esta tabela tem a intenção de simular um relatório com todos os dados que serão armazenados 
- <br> (veja o exemplo abaixo antes de criar a tabela para seu trabalho)
-    C) Após criada esta tabela não deve ser modificada, pois será comparada com os resultados finais na conclusão do trabalho
-    
-![Exemplo de Tabela de dados da Empresa Devcom](https://github.com/discproint/template_projeto_integrador/blob/main/arquivos/TabelaEmpresaDevCom_sample.xlsx?raw=true "Tabela - Empresa Devcom")
+<br>
+[Planilha com Dados - João Eid, Jonathan Castro e Raphael Branco.xlsx](https://github.com/branquitoRaph/template_projeto_integrador/files/9033655/Planilha.com.Dados.-.Joao.Eid.Jonathan.Castro.e.Raphael.Branco.xlsx)
+<br>
 
-
- 
- 
  ### 7.MODELO CONCEITUAL<br>
     A) Utilizar a Notação adequada (Preferencialmente utilizar o BR Modelo 3)
     B) O mínimo de entidades do modelo conceitual pare este trabalho será igual a 4.
         * informe quais são as 3 principais entidades do sistema em densenvolvimento
 <br>
-
-![camed_modelo_conceitual](https://user-images.githubusercontent.com/108133362/177005827-482078c2-fb44-4d46-ab85-234b35495398.png)
-
-      
-    
+![camed_conceitual](https://user-images.githubusercontent.com/108133362/177015282-1a020857-5ccd-4ded-b1a3-c69b6ae5d500.png)
+<br>
 #### 7.1 Descrição dos dados 
     [objeto]: [descrição do objeto]
     
@@ -160,8 +151,6 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
         b) Protótipo vs Modelo conceitual
         (não serão aceitos modelos que não estejam em conformidade)
         c) Backlog (caso solicitado)
-        
-
 
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
