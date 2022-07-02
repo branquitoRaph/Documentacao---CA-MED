@@ -30,7 +30,11 @@ a) inclusão dos Persons desenvolvidos pelo grupo<br>
 <br>
 <img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
 b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+
+
 <br>
+
+
 <b>Histórias de Usuário da Jarula:</b>
 <br>
 <p>1) Eu, Jarula, quero ter acesso a um bom catálogo de medicamentos que seja fácil e prático de usar, para que eu possa encontrar remédios para meus problemas de saúde sem dificuldade.</p>
@@ -150,6 +154,8 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 <br>
+
+
 #### 7.1 Descrição dos dados 
 
 <br>
