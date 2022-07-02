@@ -21,7 +21,10 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 
 ### 3.PMC<br>
-![Exemplo de PMC](Link "PMC")
+
+![pmc](https://user-images.githubusercontent.com/108133362/177018922-9a29dec7-e97a-44fd-9bd4-f2b64505ff1c.jpg)
+
+
 <br>
 
 ### 4.Personas e Histórias de usuário<br>
