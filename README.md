@@ -113,7 +113,10 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 ![Página Home(Principal)](https://user-images.githubusercontent.com/108133362/177021363-b107bfc3-a598-48ff-af28-6ece144c9e93.jpg)
 
 
-[Arquivo PDF com o Protótipo completo](https://github.com/branquitoRaph/template_projeto_integrador/files/9033947/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Os.Dois.Prototipos.pdf)
+[Arquivo PDF com o Protótipo completo (Clicável)](https://github.com/branquitoRaph/template_projeto_integrador/files/9033947/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Os.Dois.Prototipos.pdf)
+
+
+[Todas as telas e os links para acessar o protótipo](https://github.com/branquitoRaph/template_projeto_integrador/files/9033953/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Prototipo.pdf)
 
 
 <br>
