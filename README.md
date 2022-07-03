@@ -28,11 +28,8 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 ### 4.Personas e Histórias de usuário<br>
-<img src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" Personas src="https://neilpatel.com/wp-content/uploads/2019/07/exemplo-carlos.png" width="500" height="500" /> <br>
-a) inclusão dos Persons desenvolvidos pelo grupo<br>
-<br>
-<img src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" UserStory src="https://miro.medium.com/max/1400/1*r5GVnOvqpMdxnGUYNRXqbg.png" width="500" height="300" /> <br>
-b) inclusão das Histórias de usuário desenvolvidas pelo grupo
+
+![persona_jarula](https://user-images.githubusercontent.com/108133362/177020265-61c2f88f-eb84-4bba-92a9-e89deb54ff36.jpg)
 
 
 <br>
@@ -56,6 +53,10 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
 <p>8) Eu, Jarula Auxiliar de Serviços Gerais quero que o catálogo não gere nenhum tipo de pagamento pelo serviço, pois tenho um salário baixo e muitas despesas.</p>
 <br>
+
+![persona_pedro](https://user-images.githubusercontent.com/108133362/177020300-8c528851-42e9-437a-ae6b-212732fceee6.jpg)
+
+
 <br>
 
 
@@ -77,6 +78,10 @@ b) inclusão das Histórias de usuário desenvolvidas pelo grupo
 <br>
 <p>8) Eu, Pedro Martins, quero que o catálogo seja bastante intuitivo, para que o acesso seja simples, prático e objetivo, sem muitas alegorias ou contextualidades. </p>
 <br>
+
+![persona_sergio](https://user-images.githubusercontent.com/108133362/177020311-1a38b470-ef38-4372-816d-5a53253acd6e.jpg)
+
+
 <br>
 
 
