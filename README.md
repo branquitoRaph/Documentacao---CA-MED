@@ -117,26 +117,22 @@ Sugestão: https://balsamiq.com/products/mockups/<br>
 
 
 #### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
- 1. Consigo ter uma estimativa do preço do medicamento?<br>
 
-<p>Consegue, sim. Utilizamos o PMVC (Preço Máximo Vendido ao Consumidor), disponibilizado pela Anvisa (Agência Nacional de Vigilância Sanitária), para indicar o preço máximo por qual cada medicamento pode ser vendido.</p><br>
 
-2. Consigo acesso a informação se o medicamento precisa de receita?<br>
+<br>
 
-<p>Consegue. É informado, para cada medicamento, se é prescrição médica.</p><br>
+<ul>
+ 
+  <li>Relatório sobre os Preços Máximos Vendido ao Consumidor (PMVC) dos medicamentos, dados estes, disponibilizados pela Anvisa (Agência Nacional de Vigilância Sanitária).</li>
+  <li>Relatório quanto a necessidade de prescrição médica dos medicamentos, informando quais medicamentos precisam de prescrição médica e quais não precisam de prescrição médica.</li>
+  <li>Relatório informando a data (período) em que as pessoas acessaram o sintoma, ou seja, nos pertindo analisar em qual período este sintoma é mais acessado.</li>
+  <li>Relatório dos medicamentos, nos permitindo ver a quantidade de medicamentos para um determinado sintoma, para analisar se a página está boa em relação a quantidade de medicamentos (exemplo: se tiver muitos medicamentos em um determinado sintoma, pode causar uma poluição visual).</li>
+  <li>Relatório das mensagens enviadas pelos usuários, podendo analisar se tivemos mais reclamações, sugestões ou dúvidas dos usuários.</li>
+ 
+</ul>
 
-3. Preciso pesquisar pelo sintoma que estou sentindo?<br>
 
-<p>Não. Existem botões (links) de redirecionamento de páginas, e, portanto, ao clicar neles (cada um com seu respectivo sintoma), haverá o redirecionamento para a página que deseja, com os medicamentos do sintoma selecionado.</p><br>
-
-4. Quanto à quantidade, terá muitos medicamentos?<br>
-
-<p>Não. Para uma maior intuitividade, não encheremos a página de medicamentos, para que não fique desgastante.</p><br>
-
-5. Consigo entrar em contato com os desenvolvedores para tirar dúvidas ou dar sugestões sobre o site?<br>
-
-<p>Consegue, sim, afinal, nosso site está sendo feito para o público, e, portanto, precisamos da opinião de vocês para melhorarmos cada vez mais. Existe uma página de contato no site, através da qual será possível enviar mensagens a nós (desenvolvedores), para tirar dúvidas ou enviar sugestões.</p><br>
-
+<br>
  
 
 ### 6 TABELA DE DADOS DO SISTEMA:
