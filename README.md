@@ -11,7 +11,7 @@ Integrantes do grupo<br>
 João Eid Dias Pinto: jaooeiid@gmail.com<br>
 Jonathan Castro Silva: jonathancastrosilva8@gmail.com<br>
 Raphael Da Silva Branco: raphaelbranco2004@gmail.com<br>
-...
+
 
 ### 2.MINIMUNDO<br>
 
@@ -54,57 +54,15 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <p>8) Eu, Jarula Auxiliar de Serviços Gerais quero que o catálogo não gere nenhum tipo de pagamento pelo serviço, pois tenho um salário baixo e muitas despesas.</p>
 <br>
 
-![persona_pedro](https://user-images.githubusercontent.com/108133362/177020300-8c528851-42e9-437a-ae6b-212732fceee6.jpg)
-
-
-<br>
-
-
-<b>Histórias de Usuário do Pedro:</b>
-<br>
-<p>1) Eu, Pedro Martins, quero diferentes tipos de remédios genéricos para possíveis problemas de saúde que eu tenha. </p>
-<br>
-<p>2) Eu, Pedro Martins, quero os menores preços possíveis para o menor gasto possível </p>
-<br>
-<p>3) Eu, Pedro Martins, quero a mais rápida disponibilidade desses remédios para a menor espera possível.</p>
-<br>
-<p>4) Eu, Pedro Martins, quero se possível, ter acesso a bula antes da compra de um produto, para saber seus componentes. </p>
-<br>
-<p>5) Eu, Pedro Martins, quero saber se é necessário uma receita para fazer a compra desse remédio. </p>
-<br>
-<p>6) Eu, Pedro Martins, quero ter acesso ao preço máximo vendido ao consumidor (PMVC) para saber se estou pagando muito em um medicamento. </p>
-<br>
-<p>7) Eu, Pedro Martins, quero se possível, fazer login e armazenar em minha conta os remédios que mais uso.</p>
-<br>
-<p>8) Eu, Pedro Martins, quero que o catálogo seja bastante intuitivo, para que o acesso seja simples, prático e objetivo, sem muitas alegorias ou contextualidades. </p>
-<br>
-
-![persona_sergio](https://user-images.githubusercontent.com/108133362/177020311-1a38b470-ef38-4372-816d-5a53253acd6e.jpg)
-
+[Persona do Pedro e suas HUs](https://github.com/branquitoRaph/template_projeto_integrador/files/9035847/Persona.do.Pedro.e.suas.HUs.pdf)
 
 <br>
 
 
-<b>Histórias de Usuário do Sérgio:</B>
-<br>
-<p>1) Eu, Sérgio, quero encontrar um catálogo de medicamentos que possa me atender de maneira rápida e sem burocracia, para que eu possa encontrar rapidamente os remédios de que preciso. </p>
-<br>
-<p>2) Eu, Sérgio, quero encontrar remédios bons, que tenham efeito rápido, para me garantir melhoria, independentemente de seu preço.</p>
-<br>
-<p>3) Eu, Sérgio, quero conseguir remédios que funcionem, também, a longo prazo, para que eu não me preocupe para o resto de minha vida com o uso rotineiro de medicamentos. </p>
-<br>
-<p>4) Eu, Sérgio, quero poder ter uma melhor qualidade de vida e um tempo mais proveitoso com meus filhos, sem os incômodos constantes que sinto, para que eu possa me aproximar mais da minha família. </p>
-<br>
-<p>5) Eu, Sérgio, quero ter acesso a uma plataforma dinâmica e organizada para procurar medicamentos, onde as informações sejam bem dispostas, para que eu encontre o que quero saber facilmente e sem problemas.</p>
-<br>
-<p>6) Eu, Sérgio, quero que meus filhos também consigam utilizar o site, para que eu consiga mais rapidez em encontrar o medicamento.</p>
-<br>
-<p>7) Eu, Sérgio, quero poder guardar os medicamentos que eu pesquisei, para que quando precisar novamente, encontrá-lo com mais rapidez e facilidade.</p>
-<br>
-<p>8) Eu, Sérgio, quero também que o site tenha um campo com notícias sobre essa questão de saúde/medicação, para conseguir resolver meu problema o mais rápido possível, pois, como meu tempo é precioso, gostaria de ter acesso a essas informações quando entrar no site para procurar por medicamentos.</p>
-<br>
-<br>
+[Persona do Sérgio e suas HUs](https://github.com/branquitoRaph/template_projeto_integrador/files/9035888/Persona.do.Sergio.e.suas.HUs.pdf)
 
+
+<br>
 
 
 ### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
@@ -113,7 +71,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 ![Página Home(Principal)](https://user-images.githubusercontent.com/108133362/177021363-b107bfc3-a598-48ff-af28-6ece144c9e93.jpg)
 
 
-[Arquivo PDF com o Protótipo completo (Clicável)](https://github.com/branquitoRaph/template_projeto_integrador/files/9033947/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Os.Dois.Prototipos.pdf)
+[Arquivo PDF com o Protótipo completo (Navegável)](https://github.com/branquitoRaph/template_projeto_integrador/files/9033947/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Os.Dois.Prototipos.pdf)
 
 
 [Todas as telas e os links para acessar o protótipo](https://github.com/branquitoRaph/template_projeto_integrador/files/9033953/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Prototipo.pdf)
@@ -145,7 +103,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-![Planilha de Dados](https://github.com/branquitoRaph/template_projeto_integrador/blob/main/arquivos/Planilha%20com%20Dados%20-%20João%20Eid%2C%20Jonathan%20Castro%20e%20Raphael%20Branco.xlsx?raw=true "Planilha de Dados")
+[Planilha de Dados](https://github.com/branquitoRaph/template_projeto_integrador/blob/main/arquivos/Planilha%20com%20Dados%20-%20João%20Eid%2C%20Jonathan%20Castro%20e%20Raphael%20Branco.xlsx?raw=true "Planilha de Dados")
 
 
 <br>
@@ -287,10 +245,12 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-[Rastreabilidade_ HUs X Protótipo.xlsx](https://github.com/branquitoRaph/template_projeto_integrador/files/9033741/Rastreabilidade_.HUs.X.Prototipo.xlsx?raw=true "Rastreabilidade: HUs X Protótipo")
+[Rastreabilidade_ HUs X Protótipo](https://github.com/branquitoRaph/template_projeto_integrador/files/9033741/Rastreabilidade_.HUs.X.Prototipo.xlsx?raw=true "Rastreabilidade: HUs X Protótipo")
 
 
 <br>
+
+
 ### 9	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
