@@ -249,7 +249,20 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-[Rastreabilidade_ HUs X Protótipo](https://github.com/branquitoRaph/template_projeto_integrador/files/9033741/Rastreabilidade_.HUs.X.Prototipo.xlsx?raw=true "Rastreabilidade: HUs X Protótipo")
+[Rastreabilidade_ HUs X Protótipo (xlsx)](https://github.com/branquitoRaph/template_projeto_integrador/files/9033741/Rastreabilidade_.HUs.X.Prototipo.xlsx?raw=true "Rastreabilidade: HUs X Protótipo")
+
+
+[Rastreabilidade_ HUs X Protótipo (pdf)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9041598/Rastreabilidade_.HUs.X.Prototipo.-.Pagina1.pdf)
+
+
+        b) Protótipo vs Modelo Conceitual
+<br>
+
+
+[Rastreabilidade Protótipo X Modelo Conceitual (xlsx)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9041613/Rastreabilidade.Prototipo.X.Modelo.Conceitual.xlsx)
+
+
+[Rastreabilidade Protótipo X Modelo Conceitual (pdf)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9041616/Rastreabilidade.Prototipo.X.Modelo.Conceitual.-.Pagina1.pdf)
 
 
 <br>
