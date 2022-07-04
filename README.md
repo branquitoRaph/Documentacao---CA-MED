@@ -103,7 +103,11 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-[Planilha de Dados](https://github.com/branquitoRaph/template_projeto_integrador/blob/main/arquivos/Planilha%20com%20Dados%20-%20João%20Eid%2C%20Jonathan%20Castro%20e%20Raphael%20Branco.xlsx?raw=true "Planilha de Dados")
+[Planilha com Dados (PDF)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9041578/Planilha.com.Dados.-.Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Pagina1.pdf)
+
+<br>
+
+[Planilha com Dados (xlsx)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9041580/Planilha.com.Dados.-.Joao.Eid.Jonathan.Castro.e.Raphael.Branco.xlsx)
 
 
 <br>
