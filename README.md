@@ -13,21 +13,21 @@ Jonathan Castro Silva: jonathancastrosilva8@gmail.com<br>
 Raphael Da Silva Branco: raphaelbranco2004@gmail.com<br>
 
 
-### 2.MINIMUNDO<br>
+### 2. MINIMUNDO<br>
 
 Tema: Catálogo de Medicamentos<br>
 
 Um cliente solicitou um sistema para catalogar os medicamentos existentes no mercado baseado nos sintomas mais comuns da população brasileira. Nesse sistema os medicamentos possuem: nome, PMVC (Preço Máximo Vendido ao Consumidor) e se precisa de receita ou não. Já nos sintomas registramos somente o nome do sintoma. Um sintoma pode ter vários medicamentos para tratar e um medicamento pode ter vários sintomas para tratar. Além de, o cliente também solicitou uma página de contato (Fale Conosco) e ele quer armazenar o usuário que irá utilizar o site, cadastrando-o e consequentemente fazendo seu login toda vez que for acessar o site, os dados pedidos durante o cadastro, contato e login fica a cargo dos desenvolvedores. Fica também a cargo dos desenvolvedores, adicionar mais itens se possível. O cliente solicita também, um menu (janela) com notícias sobre assuntos relacionados: saúde, medicação dentre outros.<br>
 
 
-### 3.PMC<br>
+### 3. PMC<br>
 
 ![pmc](https://user-images.githubusercontent.com/108133362/177018922-9a29dec7-e97a-44fd-9bd4-f2b64505ff1c.jpg)
 
 
 <br>
 
-### 4.Personas e Histórias de usuário<br>
+### 4. Personas e Histórias de usuário<br>
 
 ![persona_jarula](https://user-images.githubusercontent.com/108133362/177020265-61c2f88f-eb84-4bba-92a9-e89deb54ff36.jpg)
 
@@ -65,7 +65,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-### 5.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
+### 5. RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
 
 
 ![Página Home(Principal)](https://user-images.githubusercontent.com/108133362/177021363-b107bfc3-a598-48ff-af28-6ece144c9e93.jpg)
@@ -80,7 +80,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-#### 5.1 QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
+#### 5.1. QUAIS PERGUNTAS PODEM SER RESPONDIDAS COM O SISTEMA PROPOSTO?
 
 
 <br>
@@ -99,7 +99,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
  
 
-### 6 TABELA DE DADOS DO SISTEMA:
+### 6. TABELA DE DADOS DO SISTEMA:
 <br>
 
 
@@ -112,7 +112,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 <br>
 
- ### 7.MODELO CONCEITUAL<br>
+ ### 7. MODELO CONCEITUAL<br>
 <br>    
 <p><b>Três principais entidades:</b></p>
 <p>MEDICAMENTO;</p>
@@ -128,7 +128,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-#### 7.1 Descrição dos dados 
+#### 7.1. Descrição dos dados 
 
 <br>
 
@@ -244,7 +244,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 <br>
 
-### 8	RASTREABILIDADE DOS ARTEFATOS<br>
+### 8.	RASTREABILIDADE DOS ARTEFATOS<br>
         a) Historia de usuários vs protótipo (mockup)
 <br>
 
@@ -268,17 +268,17 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-### 9	MODELO LÓGICO<br>
+### 9.	MODELO LÓGICO<br>
         a) inclusão do esquema lógico do banco de dados
         b) verificação de correspondencia com o modelo conceitual 
         (não serão aceitos modelos que não estejam em conformidade)
 
-### 10	MODELO FÍSICO<br>
+### 10.	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
         (criação de tabelas, alterações, etc..) 
         
        
-### 11	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
+### 11.	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados 
  <br> + insert para dados a serem inseridos)
@@ -286,6 +286,6 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
         (em caso de falha na restauração o grupo não pontuará neste quesito)
         c) formato .SQL
 <br>
- #### 12.3 ANTEPROJETO VERSÃO 1
+ #### 12.3. ANTEPROJETO VERSÃO 1
  
  Link para [Modelo de Anteprojeto](https://docs.google.com/document/d/1oeVS2CUffbSNYWxIWZFY_mX6E5ao_PHU/edit?usp=sharing&ouid=104104747195236161434&rtpof=true&sd=true)
