@@ -276,9 +276,11 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 
 ### 10.	MODELO FÍSICO<br>
-        a) inclusão das instruções de criacão das estruturas em SQL/DDL 
-        (criação de tabelas, alterações, etc..) 
-        
+
+
+[Modelo Físico Camed (arquivo PDF)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9056068/Modelo.Fisico.Camed.pdf)
+
+<br>        
        
 ### 11.	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
