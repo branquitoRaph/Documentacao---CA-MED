@@ -121,7 +121,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <br>
 
 
-![camed_conceitual](https://user-images.githubusercontent.com/108133362/177015666-007b501f-7019-4e36-afdb-e0c4c5d80a74.png)
+![Modelo Conceitual Ca'Med](https://user-images.githubusercontent.com/108133362/177015666-007b501f-7019-4e36-afdb-e0c4c5d80a74.png)
 
 
 
@@ -269,9 +269,11 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 
 
 ### 9.	MODELO LÓGICO<br>
-        a) inclusão do esquema lógico do banco de dados
-        b) verificação de correspondencia com o modelo conceitual 
-        (não serão aceitos modelos que não estejam em conformidade)
+
+
+![Modelo Lógico Ca'Med](https://user-images.githubusercontent.com/108133362/177455814-387375b5-cfdf-4168-a620-c5fb9ffaad41.png)
+
+
 
 ### 10.	MODELO FÍSICO<br>
         a) inclusão das instruções de criacão das estruturas em SQL/DDL 
