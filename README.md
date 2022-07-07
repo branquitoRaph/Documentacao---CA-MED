@@ -277,9 +277,8 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 ### 10.	MODELO FÍSICO<br>
 
 
-[Modelo Físico Camed (arquivo PDF)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9056068/Modelo.Fisico.Camed.pdf)
-
-<br>        
+[Modelo Físico Camed (pdf)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9064302/Modelo.Fisico.pdf)
+     
        
 ### 11.	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
