@@ -7,7 +7,7 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 # Sumário
 
 ### 1. COMPONENTES<br>
-Integrantes do grupo<br>
+<b>Integrantes do grupo:<br></b>
 João Eid Dias Pinto: jaooeiid@gmail.com<br>
 Jonathan Castro Silva: jonathancastrosilva8@gmail.com<br>
 Raphael Da Silva Branco: raphaelbranco2004@gmail.com<br>
