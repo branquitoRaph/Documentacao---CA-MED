@@ -271,8 +271,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 ### 9.	MODELO LÓGICO<br>
 
 
-![Modelo Lógico Ca'Med](https://user-images.githubusercontent.com/108133362/177455814-387375b5-cfdf-4168-a620-c5fb9ffaad41.png)
-
+![Modelo Lógico Camed](https://user-images.githubusercontent.com/108133362/177789686-04583e64-3f4c-48ac-9112-15bcf35434ae.png)
 
 
 ### 10.	MODELO FÍSICO<br>
