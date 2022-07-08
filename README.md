@@ -271,21 +271,34 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 ### 9.	MODELO LÓGICO<br>
 
 
-![Modelo Lógico Camed](https://user-images.githubusercontent.com/108133362/177789686-04583e64-3f4c-48ac-9112-15bcf35434ae.png)
+![Modelo Lógico Camed](https://user-images.githubusercontent.com/108133362/177896533-2ba322fb-d1f2-4e22-8583-4ae0847151fe.png)
+
 
 
 ### 10.	MODELO FÍSICO<br>
 
 
-[Modelo Físico Camed (pdf)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9064302/Modelo.Fisico.pdf)
+[Modelo Físico Camed (pdf)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068154/Modelo.Fisico.pdf)
+
      
        
 ### 11.	INSERT APLICADO NAS TABELAS DO BANCO DE DADOS<br>
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
+
+[Deletando, Criando e Inserindo (PDF em linguagem SQL)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068155/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Deletando.Criando.e.Inserindo.pdf)
+
+[ZIP com o arquivo SQL contendo as instruções de deletar, criar e inserir](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068202/deletando_criando_inserindo_camed.zip)
+
+
         b) Criar um novo banco de dados para testar a restauracao 
         (em caso de falha na restauração o grupo não pontuará neste quesito)
-        c) formato .SQL
+
+[Banco de Dados de Restauração (PDF em linguagem SQL)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068160/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Banco.de.Dados.de.Restauracao.pdf)
+
+[ZIP com o arquivo SQL do banco de restauração](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068185/banco_de_restauracao.zip)
+
+
 <br>
 
 
