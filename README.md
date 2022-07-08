@@ -120,6 +120,10 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 <p>SINTOMA</p>
 <br>
 
+<p><b>Dois principais fluxos:</b></p>
+<p>SINTOMA_MEDICAMENTO</p>
+<p>SINTOMA_USUARIO</p>
+
 
 ![Modelo Conceitual Ca'Med](https://user-images.githubusercontent.com/108133362/177015666-007b501f-7019-4e36-afdb-e0c4c5d80a74.png)
 
