@@ -290,10 +290,9 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
         a) inclusão das instruções de inserção dos dados nas tabelas criadas pelo script de modelo físico
         (Drop para exclusão de tabelas + create definição de para tabelas e estruturas de dados + insert para dados a serem inseridos)
 
-[Deletando, Criando e Inserindo (PDF em linguagem SQL)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068155/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Deletando.Criando.e.Inserindo.pdf)
+[João Eid, Jonathan Castro e Raphael Branco - Deletando, Criando e Inserindo (PDF em linguagem SQL)](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9075649/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Deletando.Criando.e.Inserindo.pdf)
 
-[ZIP com o arquivo SQL contendo as instruções de deletar, criar e inserir](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068202/deletando_criando_inserindo_camed.zip)
-
+[ZIP com o arquivo SQL das isntruções Deletar, Criar e Inserir](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9075650/deletando_criando_inserindo_camed.zip)
 
         b) Criar um novo banco de dados para testar a restauracao 
         (em caso de falha na restauração o grupo não pontuará neste quesito)
