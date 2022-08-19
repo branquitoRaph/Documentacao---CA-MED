@@ -89,7 +89,7 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
  
   <li>Relatório sobre os Preços Máximos Vendido ao Consumidor (PMVC) dos medicamentos, dados estes, disponibilizados pela Anvisa (Agência Nacional de Vigilância Sanitária).</li>
   <li>Relatório quanto a necessidade de prescrição médica dos medicamentos, informando quais medicamentos precisam de prescrição médica e quais não precisam de prescrição médica.</li>
-  <li>Relatório informando a data (período) em que as pessoas acessaram o sintoma, ou seja, nos pertindo analisar em qual período este sintoma é mais acessado.</li>
+  <li>Relatório informando a data (período) em que as pessoas acessaram o sintoma, ou seja, nos permitindo analisar em qual período este sintoma é mais acessado.</li>
   <li>Relatório dos medicamentos, nos permitindo ver a quantidade de medicamentos para um determinado sintoma, para analisar se a página está boa em relação a quantidade de medicamentos (exemplo: se tiver muitos medicamentos em um determinado sintoma, pode causar uma poluição visual).</li>
   <li>Relatório das mensagens enviadas pelos usuários, podendo analisar se tivemos mais reclamações, sugestões ou dúvidas dos usuários.</li>
  
