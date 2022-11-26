@@ -302,12 +302,93 @@ Um cliente solicitou um sistema para catalogar os medicamentos existentes no mer
 [ZIP com o arquivo SQL do banco de restauração](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9068185/banco_de_restauracao.zip)
 
 
-<br>
+### 12. TABELAS E PRINCIPAIS CONSULTAS<br>
 
+ #### 12.1 CONSULTAS DAS TABELAS COM TODOS OS DADOS INSERIDOS(TODAS)
+ 
+ #### 12.2 PRINCIPAIS CONSULTAS DO SISTEMA
+ <p><h4>Relatório 1</h4></p>
+ <p>relatorio1 = pd.read_sql_query("select nomeMedicamento,pmvc from medicamento", conn)</p>
+ <p>print("Preço Máximo Vendido aos Consumidores dos medicamentos: ")</p>
+ <p>relatorio1</p>
+
+![relatorio1_grafico](https://user-images.githubusercontent.com/108133362/204065898-952f5904-8331-48ff-9ff2-65348b116b12.jpg)
+
+ <p><h4>Relatório 2</h4></p>
+ <p>relatorio2 = pd.read_sql_query("""select necessarioreceita,count(necessarioreceita) as qtd_Precisa_Receita from medicamento group by necessarioreceita""", conn)</p>
+ <p>relatorio2</p>
+
+![relatorio2_grafico](https://user-images.githubusercontent.com/108133362/204066050-65292227-d2f7-46b9-a890-57b268153297.jpg)
+
+<p><h4>Relatório 3</h4></p>
+<p>relatorio3 = pd.read_sql_query(
+    """select EXTRACT(MONTH FROM datasintoma) as mes,count(EXTRACT(MONTH FROM datasintoma)) as qtd
+    from sintoma_usuario 
+    inner join sintoma
+    on (sintoma.idsintoma = fk_sintoma_idsintoma)
+    group by mes
+    """, conn)</p>
+ <p>print("Datas em que foram acessados os sintomas: ")</p>
+ <p>relatorio3</p>
+
+![relatorio3_grafico](https://user-images.githubusercontent.com/108133362/204066177-442fcb30-d065-4e5c-a31c-55aeecfa0778.jpg)
+
+<p><h4>Relatório 4</h4></p>
+<p>relatorio4= pd.read_sql_query("select idMedicamento, count(nomeMedicamento) as qtd_medicamento from medicamento group by idMedicamento", conn)</p>
+<p>print("Medicamentos: ")</p>
+<p>relatorio4</p>
+
+![relatorio4_grafico](https://user-images.githubusercontent.com/108133362/204066310-dd426ec4-34ff-4c47-89eb-61b1907eadb2.jpg)
+
+<p><h4>Relatório 5</h4></p>
+<p>relatorio5= pd.read_sql_query("select idMensagem, descriMensagem from mensagem", conn)</p>
+<p>print("Mensagens enviadas:  ")</p>
+<p>relatorio5</p>
+
+![relatorio5_grafico](https://user-images.githubusercontent.com/108133362/204066378-136e67be-376a-44a7-b1f0-6044ef1f3391.jpg)
 
  #### 12.3. ANTEPROJETO VERSÃO 1
  
 [Anteprojeto - João Eid, Jonathan Castro e Raphael Branco](https://github.com/branquitoRaph/Trabalho_1_PI_Desist/files/9075626/Anteprojeto.-.Joao.Eid.Jonathan.Castro.e.Raphael.Branco.pdf)
 
 
+### 13. GRÁFICOS, RELATÓRIOS, INTEGRAÇÃO COM LINGUAGENS DE PROGRAMAÇÃO E OUTRAS SOLICITAÇÕES<br>
+
+ #### 13.1 INTEGRAÇÃO COM LINGUAGEM DE PROGRAMAÇÃO
+ 
+ [Repositório do sistema web](https://github.com/branquitoRaph/camed_novo)
+ 
+ #### 13.2 DESENVOLVIMENTO DE GRÁFICOS/RELATÓRIOS PERTINENTES, JUNTAMENTE COM DEMAIS SOLICITAÇÕES FEITAS PELO PROFESSOR
+ 
+ [BACKLOG](https://github.com/branquitoRaph/Documentacao---CA-MED/files/10095456/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.BACKLOG.-.Pagina1.pdf)
+ 
+ [Calendário Reverso](https://github.com/branquitoRaph/Documentacao---CA-MED/files/10095464/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.Calendario.Reverso.pdf)
+ 
+ 
+ ![Diagrama de Classes - Ca'Med - Página 1](https://user-images.githubusercontent.com/108133362/204067865-e91cda3d-fdea-479a-8a46-b2b64bc95c1b.png)
+
+ 
+ #### 13.3 ANTEPROJETO VERSÃO 2
+ 
+ [Anteprojeto Versão 2](https://github.com/branquitoRaph/Documentacao---CA-MED/files/10095513/Anteprojeto.Versao.2.-.Joao.Eid.Jonathan.Castro.e.Raphael.Branco.pdf)
+
+
+### 14. SLIDES E APRESENTAÇÃO EM VÍDEO<br>
+
+ #### 14.1 SLIDE
+ 
+ [Pecha Kucha - Versão Final (em pptx)](https://github.com/branquitoRaph/Documentacao---CA-MED/files/10095516/Pecha.Kucha.-.Versao.Final.pptx)
+ 
+ 
+ [PITCH](https://github.com/branquitoRaph/Documentacao---CA-MED/files/10095517/Joao.Eid.Jonathan.Castro.e.Raphael.Branco.-.PITCH.pdf)
+ 
+ 
+ #### 14.2 APRESENTAÇÃO EM VÍDEO
+ 
+  [Pecha Kucha - Versão Final (link youtube)](https://youtu.be/OiPtvAMscV4)
+  
+  [PITCH - Venda (link youtube)](https://youtu.be/kuPttWDp6Jw)
+ 
+ 
+ #### 14.3 ANTEPROJETO VERSÃO FINAL
 
